@@ -71,7 +71,7 @@ class _LandingState extends State<Landing> {
       body: Center(
         child: Motion.elevated(
           elevation: 150,
-          glare: false,
+          glare: true,
           child: Stack(
             children: [
               _controller.value.isInitialized
