@@ -5,8 +5,8 @@ import 'package:video_player/video_player.dart';
 import 'package:animated_text_kit/animated_text_kit.dart';
 
 const caiTextList = [
-  'Conscius AI', // Latin
-  'जागरूक एआई', // Hindi
+  'Conscious AI', // Latin
+  'जागरूक AI', // Hindi
   'IA consciente', // French
   'Bewusste KI', // German
   'Сознательный ИИ', // Russian
